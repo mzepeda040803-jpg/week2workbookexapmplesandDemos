@@ -3,7 +3,7 @@ package com.pluralsight;
 public class hello {
     
     public static void main(String[] args) {
-        sayHi():
+        sayHi();
     }
 
     private static void sayHi() {
